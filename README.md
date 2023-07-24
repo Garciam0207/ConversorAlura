@@ -45,8 +45,9 @@ La API esta constituida por clases, intefaces y derivacion que se aplican para l
 grafica con el ususario.
 
 despues del desarrollo el producto que se ha conseguido es el siguiente:
-![Conversor](https://github.com/Garciam0207/ConversorAlura/assets/133318929/bf390be6-39d1-4d56-9b37-778424da4255)
 
+
+![Conversor Alura-One](https://github.com/Garciam0207/ConversorAlura/assets/133318929/6ff42db1-7322-4332-9135-0f9cb745ef4a)
 
 
 </p2>
