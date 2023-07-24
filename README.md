@@ -47,7 +47,7 @@ grafica con el ususario.
 despues del desarrollo el producto que se ha conseguido es el siguiente:
 
 
-![Uploading Conversor Alura-One.gif…]()
+
 
 
 </p2>
