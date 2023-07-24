@@ -5,7 +5,9 @@
 
 <h1 align="left"> Descripcion del Proyecto </h1>
 
-<p1 aling="justify">  
+<h2 aling= "center">Sobre el desafio</h2>
+
+<p1 aling="justify"> 
 Challenges Back End ONE - G5  Los Challenges son desafíos prácticos que permiten a los desarrolladores de software demostrar sus habilidades 
 en la construcción de aplicaciones y sitios web. Estos desafíos ponen a prueba sus capacidades técnicas y les brindan la oportunidad de aplicar
 sus conocimientos teóricos en situaciones reales, adquiriendo experiencia práctica y desarrollando habilidades sólidas.
@@ -35,3 +37,16 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 ¿tal vez pueda añadir a mi programa otros tipos de conversiones como temperatura por ejemplo?
 Es hora de sorprender a nuestro cliente con una función que tal vez ni siquiera sabía que necesitaba.
 </p>
+<h2 aling = "center">Sobre el desarrollo</h2>
+
+<p2 aling ="justify">
+Este proyecto fue desarrollado utilizando la IDE de Eclipse y las API AWT y Seing de Java.
+La API esta constituida por clases, intefaces y derivacion que se aplican para la estructuracion de la interfas 
+grafica con el ususario.
+
+despues del desarrollo el producto que se ha conseguido es el siguiente:
+![Conversor](https://github.com/Garciam0207/ConversorAlura/assets/133318929/bf390be6-39d1-4d56-9b37-778424da4255)
+
+
+
+</p2>
