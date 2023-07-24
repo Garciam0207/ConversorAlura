@@ -1,7 +1,7 @@
 <h1 align="center"> Conversor Alura </h1>
 
 <p1 aling = "center">
-![Conversor Alura-One](https://github.com/Garciam0207/ConversorAlura/assets/133318929/cbf5ca6d-a5a4-4450-99bf-36d7809d4ee4)
+<img scr = https://www.canva.com/design/DAFpj6QLjWs/uoWG6JjBlmD5MxTlHgkp_A/edit?utm_content=DAFpj6QLjWs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
 </p1>
 
 <h1 align="left"> Descripcion del Proyecto </h1>
