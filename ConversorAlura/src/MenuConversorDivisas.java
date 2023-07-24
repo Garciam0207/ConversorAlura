@@ -19,7 +19,7 @@ public class MenuConversorDivisas extends JFrame implements ItemListener, Action
 	double entrada;
 	
 	public MenuConversorDivisas() {
-		String inputSeleccion = JOptionPane.showInputDialog("Ingrase la cantidad de dinero a convertir");
+		String inputSeleccion = JOptionPane.showInputDialog("Ingrese la cantidad de dinero a convertir");
 		try {
 			double seleccion = Double.parseDouble(inputSeleccion);
 			System.out.println("Cantidad ingresada: " + seleccion);

@@ -19,7 +19,7 @@ public class MenuConversorTemperatura extends JFrame implements ItemListener, Ac
 	double entrada;
 
 	public MenuConversorTemperatura() {
-		String inputSeleccion = JOptionPane.showInputDialog("Ingrase la temperatura a convertir");
+		String inputSeleccion = JOptionPane.showInputDialog("Ingrese la temperatura a convertir");
 		try {
 			// implementacion para reconecer la cantidad ingresada
 			double seleccion = Double.parseDouble(inputSeleccion);
@@ -27,7 +27,7 @@ public class MenuConversorTemperatura extends JFrame implements ItemListener, Ac
 			entrada = seleccion;
 			setSize(400, 200);
 			setLocationRelativeTo(null);
-			setTitle("Conversor de Divisas Arura-One");
+			setTitle("Conversor de Temperatura Arura-One");
 			setDefaultCloseOperation(EXIT_ON_CLOSE);
 			combo1 = new JComboBox<String>();
 			combo1.setBounds(20, 35, 225, 20);
