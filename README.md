@@ -1,6 +1,6 @@
 <h1 align="center"> Conversor Alura </h1>
 
-![Logo del proyecto]([URL de la imagen generada por el servicio de alojamiento o GitHub](https://www.canva.com/design/DAFpj6QLjWs/uoWG6JjBlmD5MxTlHgkp_A/edit?utm_content=DAFpj6QLjWs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://www.canva.com/design/DAFpj6QLjWs/uoWG6JjBlmD5MxTlHgkp_A/edit?utm_content=DAFpj6QLjWs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Logo del proyecto]([https://www.canva.com/design/DAFpj6QLjWs/uoWG6JjBlmD5MxTlHgkp_A/edit?utm_content=DAFpj6QLjWs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
 
 <h1 align="left"> Descripcion del Proyecto </h1>
 
