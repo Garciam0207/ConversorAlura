@@ -47,7 +47,7 @@ grafica con el ususario.
 despues del desarrollo el producto que se ha conseguido es el siguiente:
 
 
-![Conversor Alura-One](https://github.com/Garciam0207/ConversorAlura/assets/133318929/6ff42db1-7322-4332-9135-0f9cb745ef4a)
+![Uploading Conversor Alura-One.gif…]()
 
 
 </p2>
